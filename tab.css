@@ -1,0 +1,120 @@
+.height{
+
+    height: 100vh;
+}
+
+.form{
+
+    position: relative;
+}
+
+.form .fa-search{
+
+    position: absolute;
+    top:20px;
+    left: 20px;
+    color: #9ca3af;
+
+}
+
+.form span{
+
+        position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db;
+
+}
+
+.left-pan{
+    padding-left: 7px;
+}
+
+.left-pan i{
+   
+   padding-left: 10px;
+}
+
+.form-input{
+
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+}
+#mail{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 1370px;
+    color: white;
+    text-decoration: double;
+}
+#images{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 1440px;
+    color: white;
+    text-decoration: double;
+}
+#btn1{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 1530px;
+        display:block;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        border: 1px solid red;
+        background-color: blue;
+}
+#btn2{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 100px;
+    display:inline;
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        border: 1px solid black;
+        background-color: white;
+        
+}
+#btn3{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 220px;
+    display:inline;
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        border: 1px solid black;
+        
+}
+#btn4{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 340px;
+    display:inline;
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        border: 1px solid black;
+        
+}
+#btn5{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 460px;
+    display:inline;
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        border: 1px solid black;
+        
+}
